@@ -15,7 +15,7 @@ Addressed skewness and outliers in numerical columns using various transformatio
 Conducted spatial sign transformation for outlier removal.
 
 ### Model Building:
-Implemented a variety of machine learning models, including Logistic Regression (GLM), Support Vector Machine (SVM), k-Nearest Neighbors (KNN), Neural Networks, and more.
+Implemented a variety of machine learning models, including Logistic Regression (GLM), Support Vector Machine (SVM), k-nearest Neighbors (KNN), Neural Networks, and more.
 Utilized advanced techniques such as hyperparameter tuning and spatial sign transformation to optimize model performance.
 Evaluated models using confusion matrices and key metrics.
 
@@ -25,9 +25,12 @@ Chose the GLM model as the preferred choice for heart failure prediction.
 
 ## Tools and Libraries:
 ### R Packages:
-**"reader"** for data import. 
+**"reader"** for data import.
+
 **"dplyr"** for data manipulation.
+
 **"e1071"** for SVM implementation.
+
 **"corrplot"** for creating correlation plots.
 **"caret"** for machine learning model training and evaluation.
 **"moments"** for statistical analysis.
