@@ -27,11 +27,8 @@ Chose the GLM model as the preferred choice for heart failure prediction.
 ### R Packages:
 **"reader"** for data import.
 **"dplyr"** for data manipulation.
-
 **"e1071"** for SVM implementation.
-
 **"corrplot"** for creating correlation plots.
-
 **"caret"** for machine learning model training and evaluation.
 **"moments"** for statistical analysis.
 **"klaR"** for Naive Bayes implementation.
